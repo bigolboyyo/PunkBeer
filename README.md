@@ -8,6 +8,7 @@ This is a simple beer recipe app I created to practice my vanilla JavaScript ski
 - Display beer labels with basic information
 - View detailed information about a beer in a modal
 - Responsive scrolling and selection of beer labels
+- [Deployment](https://bigolboyyo.github.io/PunkBeer/)
 
 ## Technologies Used
 
